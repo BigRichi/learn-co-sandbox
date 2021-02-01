@@ -23,6 +23,6 @@ end
 
 james = Housemate.new
 
-Richard = Housemate.new
+richard = Housemate.new
 
-Richard.pay_rent(300)
+p richard.pay_rent(300)
